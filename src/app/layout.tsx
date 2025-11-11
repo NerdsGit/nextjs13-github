@@ -6,9 +6,9 @@ import { Navbar, Footer } from "@/components/layout";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "GitHub Web — by @ladunjexa",
+  title: "GitHub SA",
   description:
-    "A Next.js GitHub homepage template with Tailwind CSS by @ladunjexa",
+    "We Build Smart Things :)",
 };
 
 export default function RootLayout({
