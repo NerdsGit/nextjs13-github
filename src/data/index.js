@@ -5,8 +5,8 @@ import { Productivity, Collaboration, Security } from "@/components/sections";
 
 import { PythonIcon, JavaScriptIcon, GoIcon } from "@/assets/icons";
 
-export const GH_USER_URL = "https://github.com/ladunjexa";
-export const GH_REPOSITORY_URL = `${GH_USER_URL}/GitHub-Webpage`;
+export const GH_USER_URL = "https://github.sa";
+export const GH_REPOSITORY_URL = `${GH_USER_URL}/`;
 
 const footerData = {
   sections: [
@@ -438,3 +438,4 @@ export {
   collaborationData,
   securityData,
 };
+
