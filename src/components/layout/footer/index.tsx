@@ -73,7 +73,7 @@ const Footer = () => {
           </ul>
           <ul className="flex items-center mb-4 sm:mb-0 text-[#7d8590] flex-wrap">
             <li className="mr-3">
-              &copy; 2023 GitHub, Inc | by <a href={GH_USER_URL} className="transition ease-in duration-100 hover:text-[#1f6feb] hover:underline">@ladunjexa</a>
+              &copy; 2025 GitHub.sa | Made by <a href={GH_USER_URL} className="transition ease-in duration-100 hover:text-[#1f6feb] hover:underline">🧠</a>
             </li>
             {items.map((item) => (
               <li className="mr-3" key={uuidv4()}>
@@ -88,3 +88,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
